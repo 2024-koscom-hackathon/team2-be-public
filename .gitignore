@@ -7,6 +7,7 @@ build/
 /src/main/resources/application.properties
 /src/main/resources/application-dev.properties
 /src/main/resources/application-deploy.properties
+.ipynb_checkpoints
 
 ### STS ###
 .apt_generated
